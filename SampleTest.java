@@ -1,3 +1,7 @@
-11111111111
-22222222222
-33333333333
+class SampleTest
+{
+    public static void main(String []args)
+    {
+        System.out.println("My First Java Program.");
+    }
+};
